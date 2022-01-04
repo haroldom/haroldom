@@ -9,7 +9,7 @@
 ## ⚡ Technologies
 - HTML5
 - CSS3
-- avaScript (Beginner)
+- JavaScript (Beginner)
 - Python
 
 ## Hello World! 🤔
