@@ -17,4 +17,3 @@
 - ⚡ Fun fact: I am only 15 years old and I love to dance marinera.
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=haroldom.haroldom)
