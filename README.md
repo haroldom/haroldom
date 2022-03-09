@@ -13,6 +13,8 @@
 - CSS3
 - JavaScript (Beginner)
 - Python
+- Java (Intermediate)
+
 
 ## Hello World! 🤔
 - 💬 Ask me about anything and everything.
