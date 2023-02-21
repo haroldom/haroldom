@@ -11,8 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/haroldom](https://dev.to/haroldom)
 
-- 💬 Ask me about **JavaScript, Node, HTML, CSS, Webpack, Babel, NPM,** 
-- **Arduino and Python**
+- 💬 Ask me about **JavaScript, Node, HTML, CSS, Webpack, Babel, NPM, Arduino and Python**
 
 - 📫 How to reach me **h4roldsmail@gmail.com**
 
