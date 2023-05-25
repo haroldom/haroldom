@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **h4roldsmail@gmail.com**
 
-- ⚡ Fun fact **I'm 16 years old and I love to play the piano**
+- ⚡ Fun fact **I'm from Peru bruh**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
