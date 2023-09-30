@@ -1,25 +1,19 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/haroldom)
 <h1 align="center">Hi 👋, I'm Harold Ormeño</h1>
-<h3 align="center">A boy who loves programming </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroldom&label=Profile%20views&color=0e75b6&style=flat" alt="haroldom" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://d7q3e721mwzfi.cloudfront.net/n2fwpu%2Fpreview%2F53501343%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1696090482&Signature=NBSvA29l0lBfTfR64AnxLyEy6~mlnnYQes7y9zFFzvZjo-Yk0V6S-Hv5fD1Gpc~oJQ3R-7fzSAqSZYC2ZcFyQxbNUYmJDyMrpRHUsTcONLTt7wUbkU70vyBr1MgcyCs~o5x6zReu4rzUbfxD~I5c8vryfdx1SeS6rWHqrrsRZAtSfl39rPK9mawXcy5nct-UPqyivsxKD3hhbfU0h5cfg7tprRwxSAE3dblKvfCN8B-69CJu3K1oK8XjfCHwiXYyb-cCwvGnx2VXo9jcBqvSSwfDZgGJG50CSOCgN6Usar98k77FO2ccyAtxwP0FKZYQ14VF1-qQ7qK5eV8zhw-oRg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
+
 <p align="left"> <a href="https://twitter.com/sebaasom" target="blank"><img src="https://img.shields.io/twitter/follow/sebaasom?logo=twitter&style=for-the-badge" alt="sebaasom" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://dev.to/haroldom](https://dev.to/haroldom)
 
-- 💬 Ask me about **JavaScript, Node, HTML, CSS, Webpack, Babel, NPM, Arduino and Python**
+- 💬 Ask me about **JavaScript, Node, HTML, CSS, Webpack, Babel, NPM,
+ Arduino and Python**
 
 - 📫 How to reach me **h4roldsmail@gmail.com**
-
-- ⚡ Fun fact **I'm from Peru bruh**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
