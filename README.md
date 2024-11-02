@@ -16,9 +16,9 @@
   <a href="https://github.com/haroldom?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/haroldom?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/haroldom">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/Ica-PE-orange?style=for-the-badge&logo=location&logoColor=white"/>
+    <img alt="views" title="Location" src="https://custom-icon-badges.demolab.com/badge/Ica-PE-orange?style=for-the-badge&logo=location&logoColor=white"/>
   </a>
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/twitter/follow/sebaasom?style=for-the-badge&color=gold&logo=twitter&labelColor=gold"/>
+    <img alt="views" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/sebaasom?style=for-the-badge&color=gold&logo=twitter&labelColor=gold"/>
 </p>
 
    
